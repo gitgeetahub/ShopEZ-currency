@@ -1,0 +1,1 @@
+import{c as e,o as t}from"./index-r_IEIcDh.js";var n=e(),r=()=>(0,n.jsxs)(`main`,{className:`mx-auto max-w-3xl p-10 text-center`,children:[(0,n.jsx)(`h1`,{className:`text-2xl font-bold`,children:`Product not found`}),(0,n.jsx)(t,{to:`/`,className:`mt-4 inline-block text-primary hover:underline`,children:`Back to catalog`})]});export{r as notFoundComponent};
